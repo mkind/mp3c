@@ -12,7 +12,7 @@ Features:
 ### Requirements
 
 * Python3
-* [mutage](https://mutagen.readthedocs.io/en/latest/)
+* [mutagen](https://mutagen.readthedocs.io/en/latest/)
 
 ### License
 
